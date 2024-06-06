@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+24eac813cfc442f81d97ee5870184d6b1267d9c7 refs/remotes/origin/3310
+30e16ab3fea583da295e0fdf88eaf0aa980d4927 refs/remotes/origin/efficient-webjars
+193b38a561ae246301a1b3f7f8e4b854546dc8d7 refs/remotes/origin/gh-pages
+a2672fef9bac82ea5ef2e73e09d4dafda2095f18 refs/remotes/origin/hacking/mysql
+d8fcd11e677102a795326ef73df09b50a646f849 refs/remotes/origin/main
+dade7fcf31248b21eb158985b250c436b2e9eb54 refs/remotes/origin/springboot3
+bf0452d6f2df564c6bb1cafecd0f6893473de3c5 refs/remotes/origin/wavefront
+c36452a2c34443ae26b4ecbba4f149906af14717 refs/tags/1.5.x
